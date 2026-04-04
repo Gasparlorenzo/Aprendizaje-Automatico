@@ -1,0 +1,42 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "edad": 35,
+        "ciudad": "Río Grande",
+        "email": "juan@email.com"
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Ana",
+        "apellido": "Gomez",
+        "edad": 28,
+        "ciudad": "Ushuaia",
+        "email": "ana@email.com"
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "Luis",
+        "apellido": "Martinez",
+        "edad": 42,
+        "ciudad": "Buenos Aires",
+        "email": "luis@email.com"
+    },
+    {
+        "id_cliente": 4,
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "edad": 31,
+        "ciudad": "Córdoba",
+        "email": "maria@email.com"
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Carlos",
+        "apellido": "Diaz",
+        "edad": 45,
+        "ciudad": "Mendoza",
+        "email": "carlos@email.com"
+    }
+]
